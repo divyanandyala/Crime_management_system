@@ -1,0 +1,11 @@
+FIR ID,Complainant,Crime Type,Location,Date,Status
+FIR001,Ramesh,Theft,Hyderabad,01-08-2026,Open
+FIR002,Suresh,Robbery,Vijayawada,02-08-2026,Closed
+FIR003,Priya,Fraud,Guntur,03-08-2026,Open
+FIR004,Anil,Cyber Crime,Visakhapatnam,04-08-2026,Closed
+FIR005,Meena,Murder,Warangal,05-08-2026,Open
+FIR006,Ravi,Kidnapping,Nellore,06-08-2026,Closed
+FIR007,Deepak,Assault,Tirupati,07-08-2026,Open
+FIR008,Kiran,Drug Trafficking,Kurnool,08-08-2026,Closed
+FIR009,Sunil,Burglary,Karimnagar,09-08-2026,Open
+FIR010,Lakshmi,Domestic Violence,Khammam,10-08-2026,Closed

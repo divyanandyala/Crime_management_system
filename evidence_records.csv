@@ -1,0 +1,11 @@
+Evidence ID,Case ID,Evidence Type,Description,Collected By,Date
+E001,C001,Fingerprint,Fingerprint found on door,Officer Ravi Kumar,01-08-2026
+E002,C002,CCTV Footage,Camera footage from bank,Officer Suresh,02-08-2026
+E003,C003,Document,Forged financial documents,Officer Anil Kumar,03-08-2026
+E004,C004,Laptop,Suspect's laptop seized,Officer Priya Sharma,04-08-2026
+E005,C005,Weapon,Knife recovered from scene,Officer Ramesh,05-08-2026
+E006,C006,Mobile Phone,Victim's mobile phone recovered,Officer Kiran,06-08-2026
+E007,C007,DNA Sample,Blood sample collected,Officer Deepak,07-08-2026
+E008,C008,Drugs,Illegal drugs seized,Officer Sunil,08-08-2026
+E009,C009,Photographs,Crime scene photographs,Officer Arjun,09-08-2026
+E010,C010,Audio Recording,Recorded witness statement,Officer Meena,10-08-2026
